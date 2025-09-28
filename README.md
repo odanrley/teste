@@ -32,12 +32,6 @@
 
 
 <!-- Greeting -->
-</h1>
-<h2 align="center">❂ I am Joshua Thadi</h2>
-
-<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies.</h4>
-
-
  <div align="center">
 <!-- Profile Views -->
 <a href="https://github.com/JoshuaThadi" target="_blank">
@@ -57,27 +51,48 @@
 
 </div>
 
-    
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<div align="center">
+<a href="https://github.com/Glauedson">
+  <img width="180px" 
+       src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
+       alt="Visualizações no perfil"
+       title="Total de visualizações"/> 
+</a>
+<a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <img width="115px" 
+       alt="seguidores" 
+       title="Total de estrelas" 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+</a>
+<a href="https://github.com/Glauedson?tab=followers">
+  <img width="150px" 
+       alt="seguidores" 
+       title="seguidores no GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+</a>
+</div>
 
+</br>
 
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+<div align="center">
 
+**Who Am I?**
+</div>
 
+<div align="justify">
 
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
-<h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in ASP.net MVC.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in AI/ML, Data Science, Automation, BlockChain development, Software Development.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
+I’m a student of `Systems Analysis and Development` at the `Federal Institute of Science and Technology of Ceará` **(IFCE)**.  
+My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
+At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
 
+When I turned 18 and entered college, I fully dove into programming.  
+Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
+Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
 
-  <h3>🧲 Connect me :</h3>
+</div>
+</br>
+
 <a href="mailto:thadijoshua@gmail.com">
   <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
   
