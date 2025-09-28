@@ -88,10 +88,10 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
  ⬛ Minimalism enthusiast.
 
 </div>
-<a href="mailto:thadijoshua@gmail.com">
+<a href="mailto:wellingtondanrley@vk.com">
   <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
   
-  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/wellingtondanrley?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
     <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
     
   <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
@@ -125,8 +125,8 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=danrleyof&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=danrleyof&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
 
   
   <!--<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">-->
