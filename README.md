@@ -51,8 +51,6 @@
 
 </div>
 
-</br>
-
 <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
 <div align="center">
 
@@ -91,6 +89,9 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
  ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
  ⬜ Interested in any large-scale project that makes me think.</br>
  ⬛ Minimalism enthusiast.
+
+</div>
+</br>
 
 
   <h3>🧲 Connect me :</h3>
