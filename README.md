@@ -181,19 +181,14 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <!-- Academic Badge-->
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Unopar%20Universidade%20Norte_do%20Do%20Paraná&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
 <div>
 
-<!-- Academic Training-->
-<h3 align="center">
-<img src="./assets/icons/graduation-white.svg" width=25>
- Academic Training
-<img src="./assets/icons/graduation-black.svg" width=25>
-</h3>
-<br>
+<!-- support -->
+<h3 align="center">Support Me 💰 </h3>
 
-<!-- Academic Badge-->
-<div align="center">
-
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
-<div>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
+ <!-- <a href="https://buymeacoffee.com/joshuathadi">
+    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
+</p>
