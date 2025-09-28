@@ -89,8 +89,6 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
  ⬛ Minimalism enthusiast.
 
 </div>
-</br>
-
 <a href="mailto:thadijoshua@gmail.com">
   <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
   
