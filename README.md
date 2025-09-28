@@ -52,7 +52,7 @@
 </div>
 </br>
 
-<img src="https://github.com/odanrley/teste/blob/main/pingu.gif" width=330 align="left">
+<img src="https://github.com/odanrley/teste/blob/main/pingu.gif" width=200 align="left">
 <div align="center">
 
 **Who Am I?**
