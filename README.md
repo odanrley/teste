@@ -31,13 +31,6 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
 
-<!-- Greeting -->
-</h1>
-<h2 align="center">❂ I am Joshua Thadi</h2>
-
-<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies.</h4>
-
-
  <div align="center">
 <!-- Profile Views -->
 <a href="https://github.com/JoshuaThadi" target="_blank">
@@ -56,11 +49,6 @@
 </a>
 
 </div>
-
-    
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
-
 
 </br>
 
