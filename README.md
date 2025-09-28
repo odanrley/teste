@@ -46,8 +46,7 @@
 <!-- Followers with GitHub Logo -->
 <a href="https://github.com/danrleyof?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/danrleyof?style=for-the-badge&label=Followers&color=111111&logo=github" />
-</a>
+       src="https://img.shields.io/github/followers/danrleyof?style=for-the-badge&label=Followers&color=111111&logo=github" /></a>
 
 </div>
 </br>
@@ -183,7 +182,8 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
-<a [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Technologist&progress=50%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55QsJsjq0FZmgT87x7M8UDfRdvIY7Vhem5aoICcD2ELWxyGqm4MbHUuALRDqckoEhwag&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)></a>
+  <a></a>
+ [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Technologist&progress=50%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55QsJsjq0FZmgT87x7M8UDfRdvIY7Vhem5aoICcD2ELWxyGqm4MbHUuALRDqckoEhwag&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
 
 <a [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Technologist&progress=50%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55QsJsjq0FZmgT87x7M8UDfRdvIY7Vhem5aoICcD2ELWxyGqm4MbHUuALRDqckoEhwag&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)></a>
 
