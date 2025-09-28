@@ -52,7 +52,7 @@
 </div>
 </br>
 
-<img src="https://github.com/odanrley/teste/blob/main/16bit.gif" width=330 align="left">
+<img src="https://github.com/odanrley/teste/blob/main/pingu.gif" width=330 align="left">
 <div align="center">
 
 **Who Am I?**
@@ -73,7 +73,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 </br>
 
 <!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<img align="right" alt="capa-Sobre" width="300" src="https://github.com/odanrley/teste/blob/main/16bit.gif"></br>
 
 <!-- A Little More About Me -->
  <h3 align="center">
