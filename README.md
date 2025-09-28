@@ -62,19 +62,46 @@
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
+</br>
+
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+<div align="center">
+
+**Who Am I?**
+</div>
+
+<div align="justify">
+
+I’m a student of `Systems Analysis and Development` at the `Federal Institute of Science and Technology of Ceará` **(IFCE)**.  
+My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
+At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
+
+When I turned 18 and entered college, I fully dove into programming.  
+Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
+Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
+
+</div>
+</br>
 
 
 
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
-<h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in ASP.net MVC.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in AI/ML, Data Science, Automation, BlockChain development, Software Development.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
+
+
+<!-- Gif  -->
+<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+
+<!-- A Little More About Me -->
+ <h3 align="center">
+  <img src="./assets/icons/user-white.svg" width=15>
+  A Little More About Me 
+  <img src="./assets/icons/user-black.svg" width=15>
+ </h3>
+
+ ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
+ ⬜ Currently working on projects with React.  </br>
+ ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
+ ⬜ Interested in any large-scale project that makes me think.</br>
+ ⬛ Minimalism enthusiast.
 
 
   <h3>🧲 Connect me :</h3>
