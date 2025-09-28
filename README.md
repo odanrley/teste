@@ -52,7 +52,7 @@
 </div>
 </br>
 
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+<img src="https://github.com/odanrley/teste/blob/main/16bit.gif" width=330 align="left">
 <div align="center">
 
 **Who Am I?**
