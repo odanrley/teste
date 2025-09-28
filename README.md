@@ -171,11 +171,15 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 </div>
 
 <!-- Academic Training-->
-
+<h3 align="center">
+<img src="./assets/icons/graduation-white.svg" width=25>
+ Academic Training
+<img src="./assets/icons/graduation-black.svg" width=25>
+</h3>
+<br>
 
 <!-- Academic Badge-->
-
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div align="center">
   
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Technologist&progress=50%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55QsJsjq0FZmgT87x7M8UDfRdvIY7Vhem5aoICcD2ELWxyGqm4MbHUuALRDqckoEhwag&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
 <div>
