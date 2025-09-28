@@ -50,7 +50,9 @@
 </a>
 
 </div>
+</br>
 
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
 <div align="center">
 
 **Who Am I?**
