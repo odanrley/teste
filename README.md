@@ -181,7 +181,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <!-- Academic Badge-->
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Unopar%20Universidade%20Norte_do%20Do%20Paraná&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Unopar%20Universidade%20Norte_do%20Do%20Paraná&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztOgsy4Xjb1wc5f9eLueqtZ8crRm2dAwmy2NIBTmRIXxUPSmJuNP2-z7KKCi6_gYRbno&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
 <div>
 
 <!-- support -->
