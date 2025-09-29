@@ -180,11 +180,11 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <!-- Academic Badge-->
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Bachelor&progress=50%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55QsJsjq0FZmgT87x7M8UDfRdvIY7Vhem5aoICcD2ELWxyGqm4MbHUuALRDqckoEhwag&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Technical%20School&course=Systems%20Development&degree=Technical&progress=95%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o_hfr7FQhWJMWhp6Dq28IWTvHXpO26XN9Vaq7VC5bTBStXtrcCSP4T5eWWS-aRU11NI&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Bachelor&progress=50%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55QsJsjq0FZmgT87x7M8UDfRdvIY7Vhem5aoICcD2ELWxyGqm4MbHUuALRDqckoEhwag&usqp=CAU)]
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Technical%20School&course=Systems%20Development&degree=Technical&progress=95%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o_hfr7FQhWJMWhp6Dq28IWTvHXpO26XN9Vaq7VC5bTBStXtrcCSP4T5eWWS-aRU11NI&usqp=CAU)]
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Software%20Engineering&degree=NNO%20Course&progress=35%25&img=https://github.com/odanrley/teste/blob/main/fiap5.png?raw=true)](https://github.com/Glauedson/github-readme-educational-badge)
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Big%20Data%20e%20Analytics&degree=NNO%20Course&progress=62%25&img=https://github.com/odanrley/teste/blob/main/fiap5.png?raw=true)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Software%20Engineering&degree=NNO%20Course&progress=35%25&img=https://github.com/odanrley/teste/blob/main/fiap5.png?raw=true)]
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Big%20Data%20e%20Analytics&degree=NNO%20Course&progress=62%25&img=https://github.com/odanrley/teste/blob/main/fiap5.png?raw=true)]
 
 <!-- vsc -->
 <h3 align="center">Vibe 🍂 </h3>
