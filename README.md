@@ -183,13 +183,14 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Bachelor&progress=50%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55QsJsjq0FZmgT87x7M8UDfRdvIY7Vhem5aoICcD2ELWxyGqm4MbHUuALRDqckoEhwag&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Technical%20School&course=Systems%20Development&degree=Technical&progress=95%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o_hfr7FQhWJMWhp6Dq28IWTvHXpO26XN9Vaq7VC5bTBStXtrcCSP4T5eWWS-aRU11NI&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
 
-<!-- support -->
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Bachelor&progress=50%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55QsJsjq0FZmgT87x7M8UDfRdvIY7Vhem5aoICcD2ELWxyGqm4MbHUuALRDqckoEhwag&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Technical%20School&course=Systems%20Development&degree=Technical&progress=95%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o_hfr7FQhWJMWhp6Dq28IWTvHXpO26XN9Vaq7VC5bTBStXtrcCSP4T5eWWS-aRU11NI&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
+
+<!-- vsc -->
 <h3 align="center">Vibe 🍂 </h3>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://github.com/odanrley/teste/blob/main/vsc2.png" height="40" width="180" alt="joshuathadi" /></a>
- <!-- <a href="https://buymeacoffee.com/joshuathadi">
-    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
+  <a href="https://vsco.co/danrleyof/"> <img align="center" src="https://github.com/odanrley/teste/blob/main/vsc2.png" height="40" width="180" alt="danrleyof" /></a>
 </p>
 
 <sub>asgsdagfasfasfdsafdf [lowlighter/metrics](h)</sub>
