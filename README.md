@@ -194,4 +194,4 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
   <a href="https://vsco.co/danrleyof/"> <img align="center" src="https://github.com/odanrley/teste/blob/main/vsc2.png" height="40" width="180" alt="danrleyof" /></a>
 </p>
 
-<sub>asgsdagfasfasfdsafdf [lowlighter/metrics](h)</sub>
+<sub>by [Wellington Danrley](https://danrley.vercel.app)</sub>
