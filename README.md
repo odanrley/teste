@@ -187,7 +187,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <h3 align="center">Support Me 💰 </h3>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://github.com/odanrley/teste/blob/main/vsc.png" height="40" width="180" alt="joshuathadi" /></a>
+  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://github.com/odanrley/teste/blob/main/vsc2.png" height="40" width="180" alt="joshuathadi" /></a>
  <!-- <a href="https://buymeacoffee.com/joshuathadi">
     <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
 </p>
