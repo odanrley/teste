@@ -144,10 +144,10 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,react,nextjs,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,kali,arch,ubuntu,python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,debian,pwsh,mysql" /><br>
 </div>
 
 <br/>
