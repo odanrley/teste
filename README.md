@@ -59,13 +59,9 @@
 
 <div align="justify">
 
-I’m a student of `Systems Analysis and Development` at the `Federal Institute of Science and Technology of Ceará` **(IFCE)**.  
-My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
-At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
+I started programming at the age of 15, creating projects for fun on FiveM servers. At 19, `I served in the Army in the IT field`, which helped me gain discipline and practical experience. The following year, `I enrolled in the Software Engineering program at UNOPAR`, fully diving into the world of programming.
 
-When I turned 18 and entered college, I fully dove into programming.  
-Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
-Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
+Today, my focus is on `Back-End Development`, where I get to work with logic, structure, and performance — things I truly enjoy. In my free time, `I like exploring cybersecurity` and participating in `bug bounties`, always looking to learn and challenge myself.
 
 </div>
 
