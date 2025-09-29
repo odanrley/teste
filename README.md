@@ -185,6 +185,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Software%20Engineering&degree=NNO%20Course&progress=35%25&img=https://github.com/odanrley/teste/blob/main/fiap5.png?raw=true)]()
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Big%20Data%20e%20Analytics&degree=NNO%20Course&progress=62%25&img=https://github.com/odanrley/teste/blob/main/fiap5.png?raw=true)]()
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Udemy&course=ReactJS%2018%20e%20TypeScript&degree=NNO%20Course&progress=62%25&img=https://www.softwareworld.co/assets/software/logo/udemy-business.png)]()
 
 <!-- vsc -->
 <h3 align="center">Vibe 🍂 </h3>
