@@ -78,9 +78,9 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
  </h3>
 
  ⬛ I enjoy being around experienced people who push me to improve.<br>
- ⬜ Currently focused on Back-End development.
- ⬛ Always open to sharing knowledge about programming and tech.
- ⬜ Passionate about cybersecurity and bug bounties in my free time.
+ ⬜ Currently focused on Back-End development.<br>
+ ⬛ Always open to sharing knowledge about programming and tech.<br>
+ ⬜ Passionate about cybersecurity and bug bounties in my free time.<br>
  ⬛ Enthusiast of discipline, logic, and building solid systems.
 
 </div>
