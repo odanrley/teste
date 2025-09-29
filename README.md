@@ -184,7 +184,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Technical%20School&course=Systems%20Development&degree=Technical&progress=95%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o_hfr7FQhWJMWhp6Dq28IWTvHXpO26XN9Vaq7VC5bTBStXtrcCSP4T5eWWS-aRU11NI&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
 
 <!-- support -->
-<h3 align="center">Support Me 💰 </h3>
+<h3 align="center">Vibe 🍂 </h3>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://github.com/odanrley/teste/blob/main/vsc2.png" height="40" width="180" alt="joshuathadi" /></a>
