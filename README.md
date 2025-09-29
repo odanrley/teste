@@ -59,7 +59,7 @@
 
 <div align="justify">
 
-I started programming at the age of 15, creating projects for fun on FiveM servers. At 19, `I served in the Army in the IT field`, which helped me gain discipline and practical experience. The following year, `I enrolled in the Software Engineering program at UNOPAR`, fully diving into the world of programming.
+I started programming at the age of 15, creating projects for fun on FiveM servers. At 19, `I served in the Army in the IT field`, which helped me gain discipline and practical experience. The following year, I enrolled in `Software Engineering at the North University of Paraná (UNOPAR)`, fully diving into the world of programming.
 
 Today, my focus is on `Back-End Development`, where I get to work with logic, structure, and performance — things I truly enjoy. In my free time, `I like exploring cybersecurity` and participating in `bug bounties`, always looking to learn and challenge myself.
 
