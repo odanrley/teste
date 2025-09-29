@@ -77,11 +77,11 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
- ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
- ⬜ Currently working on projects with React.  </br>
- ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
- ⬜ Interested in any large-scale project that makes me think.</br>
- ⬛ Minimalism enthusiast.
+ ⬛ I enjoy being around experienced people who push me to improve.
+ ⬜ Currently focused on Back-End development.
+ ⬛ Always open to sharing knowledge about programming and tech.
+ ⬜ Passionate about cybersecurity and bug bounties in my free time.
+ ⬛ Enthusiast of discipline, logic, and building solid systems.
 
 </div>
 <a href="mailto:wellingtondanrley@vk.com">
