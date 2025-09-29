@@ -184,7 +184,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Technical%20School&course=Systems%20Development&degree=Technical&progress=95%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o_hfr7FQhWJMWhp6Dq28IWTvHXpO26XN9Vaq7VC5bTBStXtrcCSP4T5eWWS-aRU11NI&usqp=CAU)](https://github.com/Glauedson/github-readme-educational-badge)
 
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Course&progress=50%25&img=https://pbs.twimg.com/profile_images/614128989112782848/S8826jXM_400x400.jpg)](https://github.com/Glauedson/github-readme-educational-badge)
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Technical%20School&course=Systems%20Development&degree=Course&progress=95%25&img=https://pbs.twimg.com/profile_images/614128989112782848/S8826jXM_400x400.jpg)](https://github.com/Glauedson/github-readme-educational-badge)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Technical%20School&course=Systems%20Development&degree=Course&progress=95%25&img=https://github.com/odanrley/teste/blob/main/fiap.png?raw=true)](https://github.com/Glauedson/github-readme-educational-badge)
 
 <!-- vsc -->
 <h3 align="center">Vibe 🍂 </h3>
