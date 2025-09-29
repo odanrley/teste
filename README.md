@@ -97,7 +97,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <a href="https://danrley.vercel.app" target="_blank">
     <img width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" alt="LinkedIn" /></a> 
 
-<a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
+<a href="https://open.spotify.com/playlist/3toIofy1s8GUjmuTmcL8P2?si=qalyEP0uQFq6EKjEhiovOA" target="_blank">
   <img width="60px" src="https://cdn.jim-nielsen.com/watchos/512/spotify-music-and-podcasts-2020-03-19.png?rf=1024" alt="Spotify Badge"></a>
 
 <a href="https://x.com/danrleyof" target="_blank">
