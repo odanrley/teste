@@ -46,7 +46,7 @@
 <!-- Followers with GitHub Logo -->
 <a href="https://github.com/danrleyof?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/danrleyof?style=for-the-badge&label=Followers&color=111111&logo=github" /></a>
+       src="https://img.shields.io/github/followers/danrleyof?style=for-the-badge&label=Followers&color=000000&logo=github" /></a>
 
 </div>
 </br>
