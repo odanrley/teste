@@ -68,7 +68,7 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 </br>
 
 <!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://img1.picmix.com/output/stamp/normal/5/8/7/8/1568785_f5209.gif"></br>
+<img align="right" alt="capa-Sobre" width="300" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif"></br>
 
 <!-- A Little More About Me -->
  <h3 align="center">
