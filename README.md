@@ -51,7 +51,7 @@
 </div>
 </br>
 
-<img src="https://github.com/danrleyof/danrleyof/blob/main/pingu.gif" width=300 align="left">
+<img src="https://i.gifer.com/Xqg8.gif" width=300 align="left">
 <div align="center">
 
 **Who Am I?**
@@ -68,7 +68,7 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 </br>
 
 <!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif"></br>
+<img align="right" alt="capa-Sobre" width="300" src="https://i.gifer.com/4dh.mp4"></br>
 
 <!-- A Little More About Me -->
  <h3 align="center">
@@ -90,7 +90,7 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
   <a href="https://www.linkedin.com/in/wellingtondanrley" target="_blank">
     <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
 
-<a href="https://danrley.vercel.app" target="_blank">
+<a href="https://danrley.cloud" target="_blank">
     <img width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" alt="LinkedIn" /></a> 
 
 <a href="https://open.spotify.com/playlist/3toIofy1s8GUjmuTmcL8P2?si=qalyEP0uQFq6EKjEhiovOA" target="_blank">
@@ -118,13 +118,16 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 
 
 <!-- git stat-->
-<h3 align="center">🌱 Github Status</h3>
+<h3 align="center">
+<img src="./assets/icons/github-white.svg" width=18>
+ Github Status 
+<img src="./assets/icons/github-black.svg" width=22>
+</h3>
+
 <br>
 <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrleyof&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=danrleyof&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danrleyof&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=danrleyof&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=danrleyof&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
 
   
   <!--<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">-->
@@ -137,7 +140,11 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 
 
 <!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<h3 align="center">
+ <img src="./assets/icons/stack-white.svg" width=17>
+ Languages & tools I Have placed My Hands On
+ <img src="./assets/icons/stack-black.svg" width=20>
+</h3>
 
 <br/>
 
@@ -155,10 +162,17 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 
 <!-- top repo and teck stack-->
 <div align="center">
-  <h3>⭐️ Best Repositories</h3>
+
+  <h3>
+   <img src="./assets/icons/bookmark-white.svg" width="12px">
+   Repositories
+   <img src="./assets/icons/bookmark-black.svg" width="14px">
+  </h3></br>
+
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/danrleyof/pac22-browser">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=danrleyof&repo=pac22-browser&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=danrleyof&repo=pac22-browser&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=1c1c1c" />
+    </a>
 </div>
 
 <!-- Academic Training-->
@@ -180,15 +194,8 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Udemy&course=ReactJS%2018%20e%20TypeScript&degree=NNO%20Course&progress=100%25&img=https://foxfio.com/wp-content/uploads/2023/05/Udemy-Personal-Plan-foxfiocom.png)]()
 
 <!-- vsc -->
-<h3 align="center">Vibe 🍂 </h3>
+<h3 align="center">Vibe</h3>
 
 <p align="center">
-  <a href="https://vsco.co/danrleyof/"> <img align="center" src="https://github.com/danrleyof/danrleyof/blob/main/vsc2.png" height="40" width="180" alt="danrleyof" /></a>
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
-    width="100%" 
-  />
+  <a href="https://vsco.co/danrleyof/"> <img align="center" src="https://github.com/danrleyof/danrleyof/blob/main/vsc4.png" height="60" width="180" alt="danrleyof" /></a>
 </p>
