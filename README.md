@@ -44,7 +44,7 @@
        src="https://img.shields.io/github/stars/danrleyof?style=for-the-badge&label=Stars&color=111111&logo=github" /></a>
 
 <!-- Followers with GitHub Logo -->
-<a href="https://github.com/danrleyof?tab=followers&color=000000" target="_blank">
+<a href="https://github.com/danrleyof?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
        src="https://img.shields.io/github/followers/danrleyof?style=for-the-badge&label=Followers&color=111111&logo=github" /></a>
 
@@ -121,8 +121,10 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=danrleyof&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=danrleyof&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danrleyof&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=danrleyof&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danrleyof&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
   
   <!--<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">-->
