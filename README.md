@@ -51,7 +51,7 @@
 </div>
 </br>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="300" />
+<img align="left" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"></br>
 <div align="center">
 
 **Who Am I?**
